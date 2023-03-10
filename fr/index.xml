@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://nicogreu.github.io/fr/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicogreu.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentions légales et politique de confidentialité</title>
+      <link>https://nicogreu.github.io/fr/legal-notice/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/fr/legal-notice/</guid>
+      <description>Éditeur: Nicolas Greliche (EI), Calle de Juan Duque 13,
+28005 Madrid, Espagne
+nicolasgreliche [at] gmail.com
++34 613 014 687
+Hébergeur: Github Pages ,
+Service de GitHub,
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 94107
+États-Unis
++1 (877) 448-4820
+Licence: Le contenu de ce site est mis à disposition sous licence Creative Commons Attribution 4.0 International .
+Politique de confidentialité Ce site n&amp;rsquo;utilise pas de cookies et ne collecte aucune information autre que celles renseignées dans le formulaire de contact.</description>
+    </item>
+    
+    <item>
+      <title>crish - la BD</title>
+      <link>https://nicogreu.github.io/fr/project/crish/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/fr/project/crish/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    
+    <item>
+      <title>crish - materiel pour enseigner la Statistique</title>
+      <link>https://nicogreu.github.io/fr/project/crish-stat/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/fr/project/crish-stat/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours</title>
+      <link>https://nicogreu.github.io/fr/journey/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/fr/journey/</guid>
+      <description>Well I&amp;rsquo;m quite good, but&amp;hellip; in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:</description>
+    </item>
+    
+  </channel>
+</rss>
