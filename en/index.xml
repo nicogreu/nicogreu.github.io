@@ -8,6 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicogreu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>crish</title>
+      <link>https://nicogreu.github.io/en/project/crish-stat/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/project/crish-stat/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    
+    <item>
+      <title>crish</title>
+      <link>https://nicogreu.github.io/en/project/crish/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/project/crish/</guid>
+      <description>I believe that in the mind of most people, a fiction work that is purposely &amp;ldquo;educational&amp;rdquo; inevitably comes with an uninteresting - and probably childish - story. This rather strong association makes sense when we look at what exists. But I don&amp;rsquo;t think it has to be that way.
+The start of the journey A few years ago, convinced that educational fiction was not incompatible with a good story, I decided to have a go at proving my point.</description>
+    </item>
+    
+    <item>
       <title>Legal notice and privacy policy</title>
       <link>https://nicogreu.github.io/en/legal-notice/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
@@ -24,29 +45,7 @@ Service from Github,
 San Francisco, CA 94107
 United States
 +1 (877) 448-4820
-License: The content of this site is licensed under a Creative Commons Attribution 4.0 International .
-Privacy policy: This website doesn&amp;rsquo;t use cookies and doesn&amp;rsquo;t collect any personal information other than what you fill in the contact form, which is not shared with anyone.</description>
-    </item>
-    
-    <item>
-      <title>crish - the comic</title>
-      <link>https://nicogreu.github.io/en/project/crish/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicogreu.github.io/en/project/crish/</guid>
-      <description>Ok, so&amp;hellip; Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
-    </item>
-    
-    <item>
-      <title>crish - the statistical education resources</title>
-      <link>https://nicogreu.github.io/en/project/crish-stat/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicogreu.github.io/en/project/crish-stat/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+Open licensing: Apart from the icons and logos that are copyrighted by the corresponding organisms, the content of this site is available under the Creative Commons Attribution 4.0 International license.</description>
     </item>
     
     <item>
@@ -55,8 +54,7 @@ https://github.com/yuin/goldmark https://github.</description>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nicogreu.github.io/en/journey/</guid>
-      <description>Well I&amp;rsquo;m quite good, but&amp;hellip; in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <description>I&amp;rsquo;ve first studied Statistics at Ensai in France, in 2006-2008. been a Statistician since Well I&amp;rsquo;m quite good, but&amp;hellip; in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</description>
     </item>
     
     <item>

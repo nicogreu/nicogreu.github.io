@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicogreu.github.io/en/legal-notice/</loc>
-    <lastmod>2023-03-09T00:00:00+00:00</lastmod>
+    <loc>https://nicogreu.github.io/en/project/crish-stat/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicogreu.github.io/fr/legal-notice/"
+                href="https://nicogreu.github.io/fr/project/crish-stat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicogreu.github.io/en/legal-notice/"
+                href="https://nicogreu.github.io/en/project/crish-stat/"
                 />
   </url><url>
     <loc>https://nicogreu.github.io/en/project/crish/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -28,17 +28,30 @@
                 href="https://nicogreu.github.io/en/project/crish/"
                 />
   </url><url>
-    <loc>https://nicogreu.github.io/en/project/crish-stat/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <loc>https://nicogreu.github.io/en/project/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nicogreu.github.io/fr/project/crish-stat/"
+                href="https://nicogreu.github.io/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nicogreu.github.io/en/project/crish-stat/"
+                href="https://nicogreu.github.io/en/project/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/legal-notice/</loc>
+    <lastmod>2023-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/legal-notice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/legal-notice/"
                 />
   </url><url>
     <loc>https://nicogreu.github.io/en/</loc>
@@ -65,19 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nicogreu.github.io/en/journey/"
-                />
-  </url><url>
-    <loc>https://nicogreu.github.io/en/project/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicogreu.github.io/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicogreu.github.io/en/project/"
                 />
   </url><url>
     <loc>https://nicogreu.github.io/en/blog/</loc>
