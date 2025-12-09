@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home of Katheryn Fox on Nicolas Greliche</title>
+    <title>Your Name - Statistician &amp; Philoso on Nicolas Greliche</title>
     <link>https://nicogreu.github.io/en/</link>
-    <description>Recent content in Home of Katheryn Fox on Nicolas Greliche</description>
+    <description>Recent content in Your Name - Statistician &amp; Philoso on Nicolas Greliche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicogreu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nicogreu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>crish</title>
       <link>https://nicogreu.github.io/en/project/crish-stat/</link>
@@ -37,35 +37,6 @@ The start of the journey A few years ago, convinced that educational fiction wa
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    
-    <item>
-      <title>Legal notice and privacy policy</title>
-      <link>https://nicogreu.github.io/en/legal-notice/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicogreu.github.io/en/legal-notice/</guid>
-      <description>Webmaster: Nicolas Greliche,
-Calle de Juan Duque, 13,
-28005 Madrid, Spain
-nicolasgreliche [at] gmail.com
-+34 613 014 687
-Host: Github Pages ,
-Service from Github,
-88 Colin P. Kelly Jr. Street
-San Francisco, CA 94107
-United States
-+1 (877) 448-4820
-Open licensing: Apart from the icons and logos that are copyrighted by the corresponding organisms, the content of this site is available under the Creative Commons Attribution 4.0 International license.</description>
-    </item>
-    
-    <item>
-      <title>My journey blup</title>
-      <link>https://nicogreu.github.io/en/journey-copy/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicogreu.github.io/en/journey-copy/</guid>
-      <description>I&amp;rsquo;ve first studied Statistics at Ensai in France, in 2006-2008. been a Statistician since Well I&amp;rsquo;m quite good, but&amp;hellip; in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</description>
     </item>
     
     <item>
@@ -105,6 +76,86 @@ Open licensing: Apart from the icons and logos that are copyrighted by the corre
  for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt;
  and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://nicogreu.github.io/en/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/art/</guid>
+      <description>I think I’ve always had a knack for doing philosophy. This is much less true for art, where I’ve had to work very hard to get from drawing like this in my early 30s to being able to create what you can see here or here.
+If you have a project requiring digital art and think I might be a good fit, feel free to connect.</description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>https://nicogreu.github.io/en/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/collaboration/</guid>
+      <description>My scientific background makes me particularly interested in collaborating with other philosophers on experimental philosophy projects.
+I have assisted many social science students and researchers in refining experimental designs similar to those typically used in experimental philosophy. Combined with my strong research methods expertise, this experience has given me a particularly sharp eye for good designs.
+If you are planning an experimental philosophy project, I would love to be involved.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nicogreu.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/contact/</guid>
+      <description>To contact me, use the following form:
+Name
+Email address
+Message
+You can also support my work on Ko-fi and find me on the following platforms: </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://nicogreu.github.io/en/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/cv/</guid>
+      <description>To download my CV, click here.</description>
+    </item>
+    
+    <item>
+      <title>Legal notice and privacy policy</title>
+      <link>https://nicogreu.github.io/en/legal-notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/legal-notice/</guid>
+      <description>Webmaster: Nicolas Greliche,
+nicolasgreliche [at] gmail.com Host: Github Pages ,
+Service from Github,
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 94107
+United States
++1 (877) 448-4820 Open licensing: Apart from the icons and logos that are copyrighted by the corresponding organisms, the content of this site is available under the Creative Commons Attribution 4.0 International license. Privacy policy: This website doesn&amp;rsquo;t use cookies and doesn&amp;rsquo;t collect any personal information other than what you fill in the contact form, which is not shared with anyone.</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>https://nicogreu.github.io/en/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/outreach/</guid>
+      <description>I have a dream that one day a blockbuster movie will invest a large portion of its budget in truly thoughtful educational content.
+Until that happens, my comic crish &amp;mdash; a semi-fantastic story filled with absurd humor and brief insights about statistics and the research world &amp;mdash; is my humble attempt to show that entertaining stories can also convey deep philosophical and educational ideas.
+The story of crish is ongoing, and in the next chapters, I plan to weave in some of the results of my current research.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://nicogreu.github.io/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicogreu.github.io/en/research/</guid>
+      <description>I am primarily interested in understanding how we can learn from data, and in exploring whether informal statistical reasoning can shed light on key questions in epistemology, decision theory and the philosophy of science.
+My secondary research interests include contributions to the niche branch of the philosophy of comics and to the interdisciplinary field of experimental philosophy.
+The research outputs resulting from my ongoing transition into these philosophical investigations are presented below.</description>
     </item>
     
   </channel>

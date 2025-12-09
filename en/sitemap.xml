@@ -54,21 +54,8 @@
                 href="https://nicogreu.github.io/en/project/"
                 />
   </url><url>
-    <loc>https://nicogreu.github.io/en/legal-notice/</loc>
-    <lastmod>2023-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicogreu.github.io/fr/legal-notice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicogreu.github.io/en/legal-notice/"
-                />
-  </url><url>
     <loc>https://nicogreu.github.io/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -79,9 +66,6 @@
                 hreflang="en"
                 href="https://nicogreu.github.io/en/"
                 />
-  </url><url>
-    <loc>https://nicogreu.github.io/en/journey-copy/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nicogreu.github.io/en/blog/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
@@ -129,6 +113,18 @@
     <loc>https://nicogreu.github.io/en/tags/text/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nicogreu.github.io/en/art/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/art/"
+                />
+  </url><url>
     <loc>https://nicogreu.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,6 +135,90 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nicogreu.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/collaboration/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/collaboration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/collaboration/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/contact/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/cv/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/legal-notice/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/legal-notice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/legal-notice/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/outreach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/outreach/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/page/"
+                />
+  </url><url>
+    <loc>https://nicogreu.github.io/en/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicogreu.github.io/fr/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicogreu.github.io/en/research/"
                 />
   </url>
 </urlset>
