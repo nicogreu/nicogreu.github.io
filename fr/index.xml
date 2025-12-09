@@ -41,25 +41,6 @@ https://github.com/yuin/goldmark https://github.</description>
     </item>
     
     <item>
-      <title>Mentions légales et politique de confidentialité</title>
-      <link>https://nicogreu.github.io/fr/legal-notice/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicogreu.github.io/fr/legal-notice/</guid>
-      <description>Éditeur: Nicolas Greliche (EI), Calle de Juan Duque 13,
-28005 Madrid, Espagne
-nicolasgreliche [at] gmail.com
-+34 613 014 687
-Hébergeur: Github Pages ,
-Service de GitHub,
-88 Colin P. Kelly Jr. Street
-San Francisco, CA 94107
-États-Unis
-+1 (877) 448-4820
-Licence: Outre les icônes et logos qui sont propriété des organismes correspondants, l&amp;rsquo;ensemble du contenu de ce site est mis à disposition sous licence Creative Commons Attribution 4.0 International .</description>
-    </item>
-    
-    <item>
       <title>Art</title>
       <link>https://nicogreu.github.io/fr/art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,12 +82,23 @@ Vous pouvez aussi soutenir mon travail sur okpal et me trouver sur les plateform
     </item>
     
     <item>
-      <title>Merci !</title>
-      <link>https://nicogreu.github.io/fr/thankyou/</link>
+      <title>Mentions légales et politique de confidentialité</title>
+      <link>https://nicogreu.github.io/fr/legal-notice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicogreu.github.io/fr/thankyou/</guid>
-      <description>J&amp;rsquo;essaie de vous répondre rapidement.</description>
+      <guid>https://nicogreu.github.io/fr/legal-notice/</guid>
+      <description>Éditeur :
+Nicolas Greliche, nicolasgreliche [at] gmail.com
+Hébergeur :
+Github Pages ,
+Service de GitHub,
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 94107
+États-Unis
++1 (877) 448-4820
+Licence :
+Outre les icônes et logos qui sont propriété des organismes correspondants, l&amp;rsquo;ensemble du contenu de ce site est mis à disposition sous licence Creative Commons Attribution 4.0 International .
+Politique de confidentialité : Ce site n&amp;rsquo;utilise pas de cookies et ne collecte aucune information autre que celles renseignées dans le formulaire de contact.</description>
     </item>
     
     <item>
